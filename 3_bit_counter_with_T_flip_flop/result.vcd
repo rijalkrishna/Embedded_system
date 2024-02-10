@@ -1,0 +1,70 @@
+$date
+  Sat Feb 10 09:08:39 2024
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module counter_tb $end
+$var reg 1 ! clk $end
+$var reg 1 " rst $end
+$var reg 3 # q_out[2:0] $end
+$scope module uut $end
+$var reg 1 $ clk $end
+$var reg 1 % rst $end
+$var reg 3 & q[2:0] $end
+$var reg 1 ' tff0_t $end
+$var reg 1 ( tff1_t $end
+$var reg 1 ) tff0_q $end
+$var reg 1 * tff1_q $end
+$var reg 1 + tff2_q $end
+$scope module tff0 $end
+$upscope $end
+$scope module tff1 $end
+$upscope $end
+$scope module tff2 $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+0!
+1"
+b000 #
+0$
+1%
+b000 &
+0'
+0(
+0)
+0*
+0+
+#5000000
+1!
+1$
+#10000000
+0!
+0"
+0$
+0%
+#15000000
+1!
+1$
+#20000000
+0!
+0$
+#25000000
+1!
+1$
+#30000000
+0!
+0$
+#35000000
+1!
+1$

@@ -1,0 +1,47 @@
+$date
+  Sat Feb 10 12:51:00 2024
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module tb_multiplexer $end
+$var reg 4 ! a[3:0] $end
+$var reg 1 " y $end
+$var reg 2 # s[1:0] $end
+$scope module uut $end
+$var reg 4 $ a[3:0] $end
+$var reg 1 % y $end
+$var reg 2 & s[1:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+b0000 !
+0"
+b00 #
+b0000 $
+0%
+b00 &
+#10000000
+b0001 !
+b01 #
+b0001 $
+b01 &
+#20000000
+b0010 !
+b10 #
+b0010 $
+b10 &
+#30000000
+b0011 !
+b11 #
+b0011 $
+b11 &
+#40000000

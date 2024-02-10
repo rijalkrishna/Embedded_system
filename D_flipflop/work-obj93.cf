@@ -1,0 +1,7 @@
+v 4
+file . "d_tb.vhdl" "a547e569c6773fb3b1947f114d457f67d75298bc" "20240210033026.327":
+  entity d_flip_flop_tb at 1( 0) + 0 on 21;
+  architecture tb_architecture of d_flip_flop_tb at 7( 90) + 0 on 22;
+file . "d.vhdl" "1da07b67b1498a70e4d627cdd5defa079905c456" "20240210033026.306":
+  entity d_flip_flop at 2( 25) + 0 on 19;
+  architecture behavioral of d_flip_flop at 15( 277) + 0 on 20;

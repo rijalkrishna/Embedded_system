@@ -1,0 +1,7 @@
+v 4
+file . "full_adder.vhdl" "2c6ee2564cc70dfd68a3350a0640ea08911ce4cc" "20240210063607.765":
+  entity full_adder at 2( 63) + 0 on 49;
+  architecture gate_level of full_adder at 13( 257) + 0 on 50;
+file . "full_adder_tb.vhdl" "604b886d8c6c43e5aef181211442af3f7286a8e8" "20240210063607.797":
+  entity tb_full_adder at 2( 1) + 0 on 51;
+  architecture behavior of tb_full_adder at 8( 91) + 0 on 52;
